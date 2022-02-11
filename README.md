@@ -12,7 +12,7 @@ Elaborar um programa que leia nome e número de acertos de candidatos inscritos 
 
 ### Links
 
-- Live Site URL: [Link](https://your-live-site-url.com)
+- Live Site URL: [Link](https://camposerick.github.io/vetores-approvedlist/)
 
 ## Processo
 
