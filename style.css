@@ -127,3 +127,26 @@ input::-webkit-inner-spin-button {
   color: #eee;
   line-height: 1.5rem;
 }
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  #inPoints {
+    width: 70%;
+  }
+
+  #btnAdd {
+    display: block;
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 15px;
+  }
+}
